@@ -14,14 +14,12 @@ We proposed a novel contrastive learning based coarse-to-fine pre-training appro
 
 ## Datasets and Other Resource
 ### Datasets
-We use two datasets in our paper, all of which have been uploaded to [Google Drive]()
- and [Baidu Netdisk](https://pan.baidu.com/s/1uDY7gmiQLZjtPOPtbG_5hg)(password: 2ho6).
+We use two datasets in our paper, all of which have been uploaded to [Google Drive](https://drive.google.com/file/d/1tVZ4d_MED0WkbXT65M93aedXyFSMi3eD/view?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1uDY7gmiQLZjtPOPtbG_5hg)(password: 2ho6).
 
 The downloaded `dataset` folder should be placed in the `data` folder.
 
 ### Saved Models
-We use two datasets in our paper, all of which have been uploaded to [Google Drive]()
- and [Baidu Netdisk]()(password: ).
+We use two datasets in our paper, all of which have been uploaded to [Google Drive](https://drive.google.com/file/d/10AuaBsoEoGsn2usrsvMXhS-fqGfmIWdA/view?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1otJotSaDpNoL7FYRg1tSfQ)(password: 44kr).
 
 The downloaded `save` folder should be placed in the root folder of this project.
 
