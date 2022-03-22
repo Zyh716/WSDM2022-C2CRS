@@ -47,3 +47,17 @@ If you have any questions for our paper or codes, please send an email to sdzyh0
 
 ## Acknowledgement 
 Our code is developed based on [CRSLab](https://github.com/RUCAIBox/CRSLab)
+
+Any scientific publications that use our codes and datasets should cite the following paper as the reference:
+```
+@inproceedings{He-WSDM-2021,
+    title = "Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals",
+    author = {Gaole He and
+              Yunshi Lan and
+              Jing Jiang and
+              Wayne Xin Zhao and
+              Ji{-}Rong Wen},
+    booktitle = {{WSDM}},
+    year = {2022},
+}
+```
