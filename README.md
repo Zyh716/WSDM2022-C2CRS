@@ -47,6 +47,7 @@ If you have any questions for our paper or codes, please send an email to sdzyh0
 
 ## Acknowledgement 
 Our code is developed based on [CRSLab](https://github.com/RUCAIBox/CRSLab)
+
 And thanks the code from [SimCLR](https://github.com/sthalles/SimCLR.git)
 
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
