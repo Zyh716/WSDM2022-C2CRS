@@ -24,7 +24,7 @@ We have trained our model on two datasets and saved the parameters, all of which
 The downloaded `save` folder should be placed in the root folder of this project.
 
 ## Quick-Start
-If you have downloaded the source codes, you can train the model.
+You can train the model.
 ```
 sh script/redial/train/redial_rec_train.sh
 sh script/redial/train/redial_conv_train.sh # remember to change --restore_path
@@ -33,7 +33,7 @@ sh script/tgredial/train/tgredial_rec_train.sh
 sh script/tgredial/train/tgredial_conv_train.sh # remember to change --restore_path
 ```
 
-You can also test the model has been saved by command line.
+You can also test the model has been saved by us.
 ```
 sh script/redial/eval/redial_rec_eval.sh
 sh script/redial/eval/redial_conv_eval.sh
@@ -48,16 +48,12 @@ If you have any questions for our paper or codes, please send an email to sdzyh0
 ## Acknowledgement 
 Our code is developed based on [CRSLab](https://github.com/RUCAIBox/CRSLab)
 
-<!-- Any scientific publications that use our codes and datasets should cite the following paper as the reference:
+Any scientific publications that use our codes and datasets should cite the following paper as the reference:
 ```
-@inproceedings{He-WSDM-2021,
-    title = "Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals",
-    author = {Gaole He and
-              Yunshi Lan and
-              Jing Jiang and
-              Wayne Xin Zhao and
-              Ji{-}Rong Wen},
-    booktitle = {{WSDM}},
-    year = {2022},
+@inproceedings{10.1145/3488560.3498514,
+title = {C²-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System},
+author = {Zhou, Yuanhang and Zhou, Kun and Zhao, Wayne Xin and Wang, Cheng and Jiang, Peng and Hu, He},
+booktitle = {WSDM},
+year = {2022},
 }
-``` -->
+```
